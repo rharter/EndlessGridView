@@ -80,8 +80,8 @@ public class EndlessGridView extends ScrollView {
 
         // Get the initial view dimensions
         View dummyView = mAdapter.getView(0, null, this);
-        mItemHeight = 100;//dummyView.getMeasuredHeight();
-        mItemWidth = 100;//dummyView.getMeasuredWidth();
+        mItemHeight = 400;//dummyView.getMeasuredHeight();
+        mItemWidth = 400;//dummyView.getMeasuredWidth();
 		fillGrid();
 	}
 

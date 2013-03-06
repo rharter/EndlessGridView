@@ -60,10 +60,10 @@ public class Main extends Activity
 		public View getView(int position, View convertView, ViewGroup parent) {
 			View v = new View(getContext());
 			ViewGroup.LayoutParams lp = new ViewGroup.LayoutParams(
-				100, 100);
+				400, 400);
 			v.setLayoutParams(lp);
-			v.setMinimumHeight(100);
-			v.setMinimumWidth(100);
+			v.setMinimumHeight(400);
+			v.setMinimumWidth(400);
 
 			v.setBackgroundColor(colors[position % colors.length]);
 
