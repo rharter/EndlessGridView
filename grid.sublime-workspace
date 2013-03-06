@@ -1,0 +1,2022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setBackgroun",
+				"setBackgroundColor(int)	void"
+			],
+			[
+				"getScrol",
+				"getScrollX"
+			],
+			[
+				"ci",
+				"virtual_card_dialog_pages_information	int"
+			],
+			[
+				"mAmou",
+				"mAmountReceived"
+			],
+			[
+				"HALF",
+				"HALF_UP	RoundingMode"
+			],
+			[
+				"getActiv",
+				"getActivity"
+			],
+			[
+				"mTime",
+				"mTimerText"
+			],
+			[
+				"mT",
+				"mTimerText"
+			],
+			[
+				"putBo",
+				"putBooleanArray(String, boolean[])	void"
+			],
+			[
+				"mCard",
+				"mCardsCollection"
+			],
+			[
+				"putParcel",
+				"putParcelableArrayList(String, ArrayList<? extends Parcelable>)	void"
+			],
+			[
+				"getPar",
+				"getParcelableArrayList(String)	ArrayList<T>"
+			],
+			[
+				"initial",
+				"initializeCardUI"
+			],
+			[
+				"has",
+				"getMethod(String, Class<?>[])	Method"
+			],
+			[
+				"custom",
+				"customCards"
+			],
+			[
+				"Air",
+				"AirnzRequestManager"
+			],
+			[
+				"TAB_",
+				"TAB_SECURITY"
+			],
+			[
+				"mHist",
+				"mHistoryFragment"
+			],
+			[
+				"mSelec",
+				"mSelectedTab"
+			],
+			[
+				"setListS",
+				"setListShownNoAnimation"
+			],
+			[
+				"Rev",
+				"RevMobileApplication"
+			],
+			[
+				"bank",
+				"program_data_bank_timezone	int"
+			],
+			[
+				"get",
+				"getTimeZone(String)	TimeZone"
+			],
+			[
+				"Oper",
+				"OperationResult"
+			],
+			[
+				"opera",
+				"operationResult"
+			],
+			[
+				"Activate",
+				"ActivateCardFragment"
+			],
+			[
+				"Activ",
+				"ActivateCardCommand"
+			],
+			[
+				"LOG",
+				"LOGV	boolean"
+			],
+			[
+				"make",
+				"makeText(Context, int, int)	Toast"
+			],
+			[
+				"mEdit",
+				"mEditTextForCVC"
+			],
+			[
+				"fragm",
+				"FragmentTransaction"
+			],
+			[
+				"oper",
+				"operationResult"
+			],
+			[
+				"opt",
+				"operationResult"
+			],
+			[
+				"operat",
+				"OperationResultDialog"
+			],
+			[
+				"getStringArr",
+				"getStringArrayList(String)	ArrayList<String>"
+			],
+			[
+				"OperationResu",
+				"OperationResultDialog"
+			],
+			[
+				"putStringA",
+				"putStringArrayList(String, ArrayList<String>)	void"
+			],
+			[
+				"set",
+				"setArguments(Bundle)	void"
+			],
+			[
+				"mSpin",
+				"mSpinnerForYear"
+			],
+			[
+				"getSelected",
+				"getSelectedItemPosition()	int"
+			],
+			[
+				"to",
+				"toArray(T[])	T[]"
+			],
+			[
+				"activ",
+				"activatable"
+			],
+			[
+				"TRANS",
+				"TRANSIT_FRAGMENT_OPEN	int"
+			],
+			[
+				"LoadMon",
+				"LoadMoneyMenuFragment"
+			],
+			[
+				"ach",
+				"achRoutingNumber	String"
+			],
+			[
+				"loadD",
+				"loadDataWithBaseURL(String, String, String, String, String)	void"
+			],
+			[
+				"infl",
+				"inflate(int, ViewGroup, boolean)	View"
+			],
+			[
+				"load",
+				"loadData"
+			],
+			[
+				"PERS",
+				"OnPersonUpdatedListener	class"
+			],
+			[
+				"getS",
+				"getSelectedItem()	Object"
+			],
+			[
+				"Car",
+				"CarrierAdapter"
+			],
+			[
+				"Json",
+				"JSONObject"
+			],
+			[
+				"lo",
+				"LOGV	boolean"
+			],
+			[
+				"unreg",
+				"unregisterListener(interface RevMobileApplication$OnPersonUpdatedListener)	void"
+			],
+			[
+				"pop",
+				"popBackStack(String, int)	void"
+			],
+			[
+				"Gson",
+				"GsonBuilder"
+			],
+			[
+				"Mobile",
+				"MobileRegistrationStatus"
+			],
+			[
+				"v",
+				"v(String)	void"
+			],
+			[
+				"chec",
+				"isChecked()	boolean"
+			],
+			[
+				"URL_",
+				"URL_RELATIVE_LOGIN_COMMANDS	String"
+			],
+			[
+				"accou",
+				"accountId"
+			],
+			[
+				"TRANSIT",
+				"TRANSIT_FRAGMENT_FADE	int"
+			],
+			[
+				"infa",
+				"inflate(int, ViewGroup, boolean)	View"
+			],
+			[
+				"Auth",
+				"AuthenticateUsingSecurityQuestionBypass"
+			],
+			[
+				"accont",
+				"accountId"
+			],
+			[
+				"mDest",
+				"mDestAmount"
+			],
+			[
+				"mS",
+				"mSelectedDestPurse"
+			],
+			[
+				"mDe",
+				"mDestAmount"
+			],
+			[
+				"value",
+				"valueOf(String)	Long"
+			],
+			[
+				"mAmount",
+				"mAmountSent"
+			],
+			[
+				"strok",
+				"mStrokeWidth"
+			],
+			[
+				"getClip",
+				"getClipBounds(Rect)	boolean"
+			],
+			[
+				"g",
+				"getWidth()	int"
+			],
+			[
+				"sec",
+				"securityQuestion"
+			],
+			[
+				"Sec",
+				"SecurityQuestion"
+			],
+			[
+				"Securi",
+				"SecurityQuestionFragment"
+			],
+			[
+				"setStro",
+				"setStrokeWidth(float)	void"
+			],
+			[
+				"selec",
+				"selectTab"
+			],
+			[
+				"add",
+				"add_money	int"
+			],
+			[
+				"Trav",
+				"TravelAccountCardFragment"
+			],
+			[
+				"LG",
+				"LOGV	boolean"
+			],
+			[
+				"mAm",
+				"mAmountReceived"
+			],
+			[
+				"mSle",
+				"mSelectedSourcePurse"
+			],
+			[
+				"Curren",
+				"CurrencyUtils"
+			],
+			[
+				"mAmoun",
+				"mAmountSent"
+			],
+			[
+				"mamount",
+				"mAmountReceived"
+			],
+			[
+				"Exc",
+				"ExchangeRate"
+			],
+			[
+				"mSele",
+				"mSelectedSourcePurse"
+			],
+			[
+				"mDes",
+				"mSelectedDestAccount"
+			],
+			[
+				"Transfer",
+				"TransferMoneyCommand"
+			],
+			[
+				"Trans",
+				"TransferMoneyCommand"
+			],
+			[
+				"getTe",
+				"getText()	interface CharSequence"
+			],
+			[
+				"showA",
+				"mShowAmount"
+			],
+			[
+				"sub",
+				"substring(int, int)	String"
+			],
+			[
+				"setI",
+				"setImageDrawable(Drawable)	void"
+			],
+			[
+				"en",
+				"entriesByCurrency	Map<String, List<HistoryEntry>>"
+			],
+			[
+				"query",
+				"queryEndDate	long"
+			],
+			[
+				"transac",
+				"transactionHistory"
+			],
+			[
+				"trans",
+				"transactionHistory"
+			],
+			[
+				"mCurrenc",
+				"mCurrencyButton"
+			],
+			[
+				"no",
+				"noPursesAvailable"
+			],
+			[
+				"display",
+				"displayError"
+			],
+			[
+				"setButt",
+				"setPositiveButton(interface CharSequence, interface DialogInterface$OnClickListener)	AlertDialog$Builder"
+			],
+			[
+				"alig",
+				"setTextAlignment(int)	void"
+			],
+			[
+				"CENTER",
+				"CENTER_HORIZONTAL	int"
+			],
+			[
+				"target",
+				"setTargetObjectId(String)	void"
+			],
+			[
+				"cancel",
+				"cancelReorder"
+			],
+			[
+				"notify",
+				"notifyDataSetChanged()	void"
+			],
+			[
+				"JSON",
+				"JsonHttpResponseHandler"
+			],
+			[
+				"UpdateDra",
+				"UpdateDrawdownOrderCommand"
+			],
+			[
+				"rem",
+				"remove(int)	E"
+			],
+			[
+				"notif",
+				"notifyDataSetChanged()	void"
+			],
+			[
+				"butt",
+				"mButtonBar"
+			],
+			[
+				"Deac",
+				"DeactivatePurseAccountCommand"
+			],
+			[
+				"J",
+				"JSONObject"
+			],
+			[
+				"JS",
+				"JsonHttpResponseHandler"
+			],
+			[
+				"onsele",
+				"OnSelectPurseListener"
+			],
+			[
+				"clear",
+				"clearAdapter"
+			],
+			[
+				"ActivatePurse",
+				"ActivatePurseAccountCommand"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"StringPick",
+				"StringPickerDialog"
+			],
+			[
+				"remo",
+				"remove(Object)	boolean"
+			],
+			[
+				"onAcc",
+				"OnAccountChangeListener"
+			],
+			[
+				"Applicat",
+				"RevMobileApplication"
+			],
+			[
+				"OnStringChange",
+				"OnStringChangeListener"
+			],
+			[
+				"selected",
+				"selectedValue"
+			],
+			[
+				"ac",
+				"active	boolean"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/com/ryanharter/endlessgrid/ScrollView.java",
+			"settings":
+			{
+				"buffer_size": 38356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/com/ryanharter/endlessgrid/EndlessGridView.java",
+			"settings":
+			{
+				"buffer_size": 8343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "res/layout/main.xml",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/com/ryanharter/endlessgrid/Main.java",
+			"settings":
+			{
+				"buffer_size": 1332,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SublimeAndroid/SublimeAndroid.sublime-build",
+	"command_palette":
+	{
+		"height": 203.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"eclip",
+				"Eclipse: Format Java"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"",
+				"Android: Reload Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packageremov",
+				"Package Control: Remove Package"
+			],
+			[
+				"palist",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: instl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 260.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rharter/code/chaoticmoon/endless_grid_test/src/com/ryanharter/endlessgrid/ScrollView.java",
+		"/Users/rharter/code/chaoticmoon/endless_grid_test/src/com/ryanharter/endlessgrid/EndlessGridView.java",
+		"/Users/rharter/code/chaoticmoon/endless_grid_test/grid.sublime-project",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/AccountViewFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/activity_manage_account.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/ManageAccountActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values/strings.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/adapters/HistoryAdapter.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/dialog_confirm_transfer.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values/styles.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/ExchangeRate.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values/program_config.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_transfer_exchange.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values/dimensions.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/ExchangeFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values/colors.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/VirtualCardFrontFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/VirtualCardBackFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/AndroidManifest.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_virtual_card_front.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values-land/dimens.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/VirtualCardActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/VirtualCard.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/ResetPasswordFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/TravelAccountCardFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/ExchangeActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/adapters/CardPagerAdapter.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/requests/RequestManager.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/airnz/mobilebanking/AirnzRequestManager.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/airnz/mobilebanking/AirnzPointCardFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values/air_nz.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/ad_card_content.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/YapEnrollFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/CardFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/requests/Constants.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/README.md",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/CustomCardFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/AdCardFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/airnz/mobilebanking/ui/AirnzPointCardFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/airnz/mobilebanking/request/AirnzRequestManager.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/HistoryFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/ActivateCardFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/SecurityFragment.java",
+		"/Android/android-sdk-macosx/extras/google/google_play_services/samples/auth/src/com/google/android/gms/auth/sample/helloauth/MainActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/UI/ActivityHelper.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/BaseActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/BaseMenuActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/AuthorizationActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/RevMobileApplication.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/ChangeUserPINFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/Card.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/SplashFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_splash.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values-v11/styles.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/TransactionDetailFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/OtherSettingsFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_other_settings.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_alerts_transactions.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_alerts.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_change_pin.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_change_user_information.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_yap_change_pin.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_profile.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/ProfileFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/FriendTransferFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/Commands/SendMoneyCommand.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_security.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/OperationResultDialog.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/ManageCardsFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_activate_card.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_card_detail.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/CardDetailFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/row_card.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/Commands/ActivateCardCommand.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/RegistrationStepOneFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/CardRegistrationActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/Log.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/SettingsFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_authentication.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/LoginFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_login.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/AuthenticationFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/LoadMoneyFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_load_money_menu.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/activity_account_view.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/CustomerAccount.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/LoadMoneyMenuFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/LoadMoneyActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/libs/actionbarsherlock/res/values/abs__strings.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/Commands/YapRegistrationCommand.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_yap_enroll.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/TransactionAlertsFragment.java",
+		"/Users/rharter/Downloads/yamj/categories-default.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/AccountTransferFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/YapChangePinFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/MobileCarrier.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/YapSettingsFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/Person.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/Commands/YapRemoveRegistrationCommand.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/Commands/BaseCommand.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/YapSecurityQuestionFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/dialog_error.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/Commands/YapChangePinCommand.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/YapPinResetResponse.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/activity_base.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_yap_security_question.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/activities/AccountViewActivity.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_yap_settings.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/component_information_panel.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/SecurityQuestionFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/activity_card_registration.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/SecurityQuestion.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/DataTypes/Amount.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_settings_yap.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/AlertsFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_settings.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/logic/StringHelper.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_account_transfer.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/fragments/AboutFragment.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/models/Commands/SetAccountAlertCommand.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/drawable/checkbox_selector.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/fragment_registration_step_one.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/drawable-hdpi/checkbox_press.png",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values/themes.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/requests/TrustAllSslSocketFactory.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/src/com/rev/mobilebanking/helpers/requests/AllCertSSLFactory.java",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/layout/card_split_button.xml",
+		"/Users/rharter/code/chaoticmoon/Rev-MobileBanking-Android/res/values-hdpi/dimens.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"y",
+			"int",
+			"TwoDScrollView",
+			"dialog",
+			"TAB_SECURITY",
+			"mSecurityButton",
+			"Received",
+			"paddingLeft",
+			"quoteTime",
+			"virtualcard",
+			"mChangePosition",
+			"List<VirtualCard>",
+			"exchange",
+			"Account",
+			"account",
+			"GeneralAccountCardFragment",
+			"mSelectedTabId = ",
+			"mSelectedTagId",
+			"changePin",
+			"activate",
+			"reportButton",
+			"changePin",
+			"activate",
+			"reportButton",
+			"tz",
+			"|p",
+			"BaseMenuActivity",
+			"ActivateCardFragment",
+			"sendmoney",
+			"registration",
+			"CardDetailFragment",
+			"showDialog",
+			"accountId",
+			"mSecurityFragment",
+			"registerButton",
+			"mCustomer",
+			"bank_transfer",
+			"western_union",
+			"greendot",
+			"paypal",
+			"bank_transfer",
+			"misc",
+			"yap",
+			"LoadMoneyFragment",
+			"false",
+			"bool",
+			"YapRemoveRegistrationCommand",
+			"accounts",
+			"FinancialAccount",
+			"YapChangePinFragment",
+			"onAttach",
+			"YapChangePinCommand",
+			"ClosePurseAccountCommand",
+			"YapSecurityQuestionFragment",
+			"SecurityQuestionFragment",
+			" // end method",
+			"OtherSettingsFragment",
+			"phone",
+			"about",
+			"other_settings",
+			"SettingsFragment",
+			"account",
+			"mPerson",
+			";\n",
+			"mAccount",
+			"CustomerAccount",
+			"PENDING",
+			"EMAIL",
+			"person",
+			"mPerson",
+			"AlertsFragment",
+			"mAmount",
+			"SettingsFragment",
+			"live_chat",
+			"160",
+			"ImageView",
+			"value",
+			"AccountViewAc",
+			"getValue()",
+			"value",
+			"Value",
+			"value",
+			"alerts",
+			"mChat",
+			"chatLink",
+			"phone",
+			"RelativeLayout",
+			"LinearLayout",
+			"accounts",
+			"info",
+			"int",
+			"getResources()",
+			"GeneralAccountCardFragment",
+			"LinearLayout",
+			"mContext",
+			"FinancialAccount",
+			"AccountTransferFragment",
+			">\n",
+			"LinearLayout",
+			"amount.getText().toString(",
+			"amount",
+			"ClosePurseAccountCommand",
+			"transfer",
+			"mPager",
+			"RelativeLayout",
+			"pageOne",
+			"information",
+			"center_vertical",
+			"TransferInformationDialogFragment",
+			"Top",
+			"EditText",
+			"heading",
+			"placeholder",
+			"from",
+			"horizontal",
+			"ManageAccountActivity",
+			"mAccountId",
+			"AccountId",
+			"accountId",
+			"History",
+			"HistoryEntry",
+			"TransactionHistoryAdapter",
+			"noPursesAvailable",
+			"continue",
+			"Inverse",
+			"sendAuthenticationRequest",
+			"Medium",
+			"new ArrayList<String>(Arrays.asList(mAccount.drawdownOrder))"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/com/ryanharter/endlessgrid/ScrollView.java",
+					"settings":
+					{
+						"buffer_size": 38356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26592,
+								26592
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11381.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/com/ryanharter/endlessgrid/EndlessGridView.java",
+					"settings":
+					{
+						"buffer_size": 8343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1941,
+								1941
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 933.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "res/layout/main.xml",
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/com/ryanharter/endlessgrid/Main.java",
+					"settings":
+					{
+						"buffer_size": 1332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								755
+							],
+							[
+								778,
+								778
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 170.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 392.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"progra",
+				"res/values/program_config.xml"
+			],
+			[
+				"friend",
+				"src/com/rev/mobilebanking/fragments/FriendTransferFragment.java"
+			],
+			[
+				"exchnf",
+				"src/com/rev/mobilebanking/fragments/ExchangeFragment.java"
+			],
+			[
+				"virtualcardac",
+				"src/com/rev/mobilebanking/activities/VirtualCardActivity.java"
+			],
+			[
+				"virtualcarddial",
+				"src/com/rev/mobilebanking/fragments/VirtualCardDialogFragment.java"
+			],
+			[
+				"strings",
+				"res/values/strings.xml"
+			],
+			[
+				"styles",
+				"res/values/styles.xml"
+			],
+			[
+				"dimens",
+				"res/values/dimensions.xml"
+			],
+			[
+				"program",
+				"res/values/program_config.xml"
+			],
+			[
+				"exch",
+				"src/com/rev/mobilebanking/models/DataTypes/ExchangeRate.java"
+			],
+			[
+				"exchange",
+				"src/com/rev/mobilebanking/fragments/ExchangeFragment.java"
+			],
+			[
+				"colors",
+				"res/values/colors.xml"
+			],
+			[
+				"dimensions",
+				"res/values/dimensions.xml"
+			],
+			[
+				"airnzre",
+				"src/com/airnz/mobilebanking/AirnzRequestManager.java"
+			],
+			[
+				"request",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			],
+			[
+				"programconf",
+				"res/values/program_config.xml"
+			],
+			[
+				"requestmana",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			],
+			[
+				"constants",
+				"src/com/rev/mobilebanking/helpers/requests/Constants.java"
+			],
+			[
+				"card.j",
+				"src/com/rev/mobilebanking/models/DataTypes/Card.java"
+			],
+			[
+				"fragmenalert",
+				"res/layout/fragment_alerts_transactions.xml"
+			],
+			[
+				"fragmentaler",
+				"res/layout/fragment_alerts.xml"
+			],
+			[
+				"fragment_other_settings",
+				"res/layout/fragment_other_settings.xml"
+			],
+			[
+				"fragmentchangp",
+				"res/layout/fragment_change_pin.xml"
+			],
+			[
+				"fragyappi",
+				"res/layout/fragment_yap_change_pin.xml"
+			],
+			[
+				"fragmepin",
+				"src/com/rev/mobilebanking/fragments/ChangeUserPINFragment.java"
+			],
+			[
+				"changeuserpinfragment",
+				"src/com/rev/mobilebanking/fragments/ChangeUserPINFragment.java"
+			],
+			[
+				"sendmoney",
+				"src/com/rev/mobilebanking/models/Commands/SendMoneyCommand.java"
+			],
+			[
+				"requ",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			],
+			[
+				"sec",
+				"res/layout/fragment_security.xml"
+			],
+			[
+				"basac",
+				"src/com/rev/mobilebanking/activities/BaseActivity.java"
+			],
+			[
+				"baseac",
+				"src/com/rev/mobilebanking/activities/BaseMenuActivity.java"
+			],
+			[
+				"cardd",
+				"src/com/rev/mobilebanking/fragments/CardDetailFragment.java"
+			],
+			[
+				"operation",
+				"src/com/rev/mobilebanking/fragments/OperationResultDialog.java"
+			],
+			[
+				"const",
+				"src/com/rev/mobilebanking/helpers/requests/Constants.java"
+			],
+			[
+				"re",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			],
+			[
+				"loginfragme",
+				"src/com/rev/mobilebanking/fragments/LoginFragment.java"
+			],
+			[
+				"authenfragm",
+				"src/com/rev/mobilebanking/fragments/AuthenticationFragment.java"
+			],
+			[
+				"fragmentloadmone",
+				"res/layout/fragment_load_money_menu.xml"
+			],
+			[
+				"stirngs",
+				"libs/actionbarsherlock/res/values/abs__strings.xml"
+			],
+			[
+				"fragmenloadmon",
+				"res/layout/fragment_load_money_menu.xml"
+			],
+			[
+				"fragloadmonemen",
+				"src/com/rev/mobilebanking/fragments/LoadMoneyMenuFragment.java"
+			],
+			[
+				"transaler",
+				"src/com/rev/mobilebanking/fragments/TransactionAlertsFragment.java"
+			],
+			[
+				"frayaen",
+				"res/layout/fragment_yap_enroll.xml"
+			],
+			[
+				"frageyapen",
+				"res/layout/fragment_yap_enroll.xml"
+			],
+			[
+				"revmo",
+				"src/com/rev/mobilebanking/RevMobileApplication.java"
+			],
+			[
+				"consta",
+				"src/com/rev/mobilebanking/helpers/requests/Constants.java"
+			],
+			[
+				"cons",
+				"src/com/rev/mobilebanking/helpers/requests/Constants.java"
+			],
+			[
+				"requestmanag",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			],
+			[
+				"string",
+				"res/values/strings.xml"
+			],
+			[
+				"securityquestfra",
+				"src/com/rev/mobilebanking/fragments/SecurityQuestionFragment.java"
+			],
+			[
+				"constan",
+				"src/com/rev/mobilebanking/helpers/requests/Constants.java"
+			],
+			[
+				"otehrsett",
+				"res/layout/fragment_other_settings.xml"
+			],
+			[
+				"settfra",
+				"src/com/rev/mobilebanking/fragments/SettingsFragment.java"
+			],
+			[
+				"faltr",
+				"res/layout/fragment_alerts_transactions.xml"
+			],
+			[
+				"fatx",
+				"res/layout/fragment_account_transfer.xml"
+			],
+			[
+				"alerts",
+				"src/com/rev/mobilebanking/fragments/AlertsFragment.java"
+			],
+			[
+				"securiqufr",
+				"src/com/rev/mobilebanking/fragments/SecurityQuestionFragment.java"
+			],
+			[
+				"revpp",
+				"src/com/rev/mobilebanking/RevMobileApplication.java"
+			],
+			[
+				"setacc",
+				"src/com/rev/mobilebanking/models/Commands/SetAccountAlertCommand.java"
+			],
+			[
+				"fragment_al",
+				"res/layout/fragment_alerts_transactions.xml"
+			],
+			[
+				"theme",
+				"res/values/themes.xml"
+			],
+			[
+				"basemenu",
+				"src/com/rev/mobilebanking/activities/BaseMenuActivity.java"
+			],
+			[
+				"amount",
+				"src/com/rev/mobilebanking/models/DataTypes/Amount.java"
+			],
+			[
+				"pursetra",
+				"src/com/rev/mobilebanking/models/DataTypes/PurseTransfer.java"
+			],
+			[
+				"trav",
+				"src/com/rev/mobilebanking/fragments/TravelAccountCardFragment.java"
+			],
+			[
+				"person",
+				"src/com/rev/mobilebanking/models/DataTypes/Person.java"
+			],
+			[
+				"config",
+				"res/values/config.xml"
+			],
+			[
+				"dimesn",
+				"res/values/dimensions.xml"
+			],
+			[
+				"genera",
+				"src/com/rev/mobilebanking/fragments/GeneralAccountCardFragment.java"
+			],
+			[
+				"reques",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			],
+			[
+				"log",
+				"src/com/rev/mobilebanking/Log.java"
+			],
+			[
+				"accountviewac",
+				"src/com/rev/mobilebanking/activities/AccountViewActivity.java"
+			],
+			[
+				"acounttras",
+				"src/com/rev/mobilebanking/fragments/AccountTransferFragment.java"
+			],
+			[
+				"transfermoneycom",
+				"src/com/rev/mobilebanking/models/Commands/TransferMoneyCommand.java"
+			],
+			[
+				"accounttrasn",
+				"src/com/rev/mobilebanking/fragments/AccountTransferFragment.java"
+			],
+			[
+				"fonthelper",
+				"src/com/rev/mobilebanking/helpers/UI/FontHelper.java"
+			],
+			[
+				"fragment_transfer_info",
+				"res/layout/fragment_transfer_info.xml"
+			],
+			[
+				"fragment_transfer",
+				"res/layout/fragment_transfer_info.xml"
+			],
+			[
+				"customer",
+				"src/com/rev/mobilebanking/models/DataTypes/CustomerAccount.java"
+			],
+			[
+				"financi",
+				"src/com/rev/mobilebanking/models/DataTypes/FinancialAccount.java"
+			],
+			[
+				"dimen",
+				"res/values/dimensions.xml"
+			],
+			[
+				"err",
+				"res/values/error_codes.xml"
+			],
+			[
+				"fragesele",
+				"res/layout/fragment_select_transfer.xml"
+			],
+			[
+				"themes",
+				"libs/actionbarsherlock/res/values-v14/abs__themes.xml"
+			],
+			[
+				"splash",
+				"src/com/rev/mobilebanking/fragments/SplashFragment.java"
+			],
+			[
+				"historyadap",
+				"src/com/rev/mobilebanking/helpers/adapters/HistoryAdapter.java"
+			],
+			[
+				"currencyutil",
+				"src/com/rev/mobilebanking/util/CurrencyUtils.java"
+			],
+			[
+				"currencyada",
+				"src/com/rev/mobilebanking/helpers/adapters/TravelCurrencyAdapter.java"
+			],
+			[
+				"author",
+				"src/com/rev/mobilebanking/models/DataTypes/AuthorizationHold.java"
+			],
+			[
+				"phone",
+				"src/com/rev/mobilebanking/models/DataTypes/Phone.java"
+			],
+			[
+				"financial",
+				"src/com/rev/mobilebanking/models/DataTypes/FinancialAccount.java"
+			],
+			[
+				"history",
+				"src/com/rev/mobilebanking/models/DataTypes/History.java"
+			],
+			[
+				"filter",
+				"src/com/rev/mobilebanking/util/Filter.java"
+			],
+			[
+				"travel",
+				"src/com/rev/mobilebanking/fragments/TravelAccountCardFragment.java"
+			],
+			[
+				"constant",
+				"src/com/rev/mobilebanking/helpers/requests/Constants.java"
+			],
+			[
+				"application",
+				"src/com/rev/mobilebanking/RevMobileApplication.java"
+			],
+			[
+				"travelacc",
+				"src/com/rev/mobilebanking/fragments/TravelAccountCardFragment.java"
+			],
+			[
+				"manaccact",
+				"src/com/rev/mobilebanking/activities/ManageAccountActivity.java"
+			],
+			[
+				"color",
+				"res/values/colors.xml"
+			],
+			[
+				"manaaccact",
+				"src/com/rev/mobilebanking/activities/ManageAccountActivity.java"
+			],
+			[
+				"travelada",
+				"src/com/rev/mobilebanking/helpers/adapters/TravelCurrencyAdapter.java"
+			],
+			[
+				"dimension",
+				"res/values/dimensions.xml"
+			],
+			[
+				"cardleft",
+				"res/drawable/bg_card_split_button_left_normal.xml"
+			],
+			[
+				"dim",
+				"res/values/dimensions.xml"
+			],
+			[
+				"createsecurityquestionbypasstoken",
+				"src/com/rev/mobilebanking/models/Commands/CreateSecurityQuestionBypassToken.java"
+			],
+			[
+				"authenticateusingsecurityquestionbypass",
+				"src/com/rev/mobilebanking/models/Commands/AuthenticateUsingSecurityQuestionBypass.java"
+			],
+			[
+				"basecomma",
+				"src/com/rev/mobilebanking/models/Commands/BaseCommand.java"
+			],
+			[
+				"transadap",
+				"src/com/rev/mobilebanking/helpers/adapters/TransactionHistoryAdapter.java"
+			],
+			[
+				"cardadapter",
+				"src/com/rev/mobilebanking/helpers/adapters/CardPagerAdapter.java"
+			],
+			[
+				"cardfra",
+				"src/com/rev/mobilebanking/fragments/CardFragment.java"
+			],
+			[
+				"transactionada",
+				"src/com/rev/mobilebanking/helpers/adapters/TransactionHistoryAdapter.java"
+			],
+			[
+				"basemen",
+				"src/com/rev/mobilebanking/activities/BaseMenuActivity.java"
+			],
+			[
+				"row",
+				"res/layout/row_transaction_card.xml"
+			],
+			[
+				"transactada",
+				"src/com/rev/mobilebanking/helpers/adapters/TransactionHistoryAdapter.java"
+			],
+			[
+				"account",
+				"src/com/rev/mobilebanking/activities/AccountViewActivity.java"
+			],
+			[
+				"links",
+				"src/com/rev/mobilebanking/models/DataTypes/Links.java"
+			],
+			[
+				"finantran",
+				"src/com/rev/mobilebanking/models/DataTypes/FinancialTransaction.java"
+			],
+			[
+				"transac",
+				"src/com/rev/mobilebanking/models/DataTypes/TransactionHistory.java"
+			],
+			[
+				"dimes",
+				"res/values/dimensions.xml"
+			],
+			[
+				"slidi",
+				"res/layout/sliding_menu.xml"
+			],
+			[
+				"applic",
+				"src/com/rev/mobilebanking/RevMobileApplication.java"
+			],
+			[
+				"purse",
+				"src/com/rev/mobilebanking/models/DataTypes/PurseAccount.java"
+			],
+			[
+				"devi",
+				"src/com/rev/mobilebanking/models/DataTypes/Device.java"
+			],
+			[
+				"menu",
+				"res/layout/sliding_menu.xml"
+			],
+			[
+				"reqe",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			],
+			[
+				"loginquest",
+				"src/com/rev/mobilebanking/fragments/LoginSecurityQuestionFragment.java"
+			],
+			[
+				"loginformfra",
+				"src/com/rev/mobilebanking/fragments/LoginFormFragment.java"
+			],
+			[
+				"requestman",
+				"src/com/rev/mobilebanking/helpers/requests/RequestManager.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true
+}
